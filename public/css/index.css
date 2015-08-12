@@ -7,3 +7,12 @@
 body{
   text-align: center;
 }
+h1.mate{
+  width: 500px;
+  height: 400px;
+  margin: 50px auto;
+  background: url(../img/mate.jpg);
+  background-size: cover;
+  color: #fff;
+
+}
