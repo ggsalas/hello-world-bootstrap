@@ -14,5 +14,5 @@ h1.mate{
   background: url(../img/mate.jpg);
   background-size: cover;
   color: #fff;
-
+  text-shadow: 0 2px 6px #000;
 }
